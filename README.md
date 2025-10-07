@@ -35,7 +35,7 @@ These are the softwares you need to install before getting started.
 1. Clone This Repository
 
    ```sh
-   https://github.com/ali-dot-com/arcade.git
+   https://github.com/Muji-24/arcade-zone
 
 2. Install NPM Packages
    ```sh

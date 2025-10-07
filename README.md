@@ -102,10 +102,4 @@ Don't forget to give the project a star! Thanks again!
 ![image](https://user-images.githubusercontent.com/115064667/215286052-92cd87fa-2f39-4ac3-bdb0-91fead3f7d9f.png)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
-<p align="center"> © 2022 Muhammad Ali, All Rights Reserved. </p>
-<p align="center">
-https://github.com/ali-dot-com
-</p>
